@@ -1,4 +1,4 @@
-# Classification d'images en couleur
+# Classification d'images 
 
 Classification multi-classes d'images couleur 32×32 en 10 classes (avion, voiture, oiseau, chat, daim, chien, grenouille, cheval, bateau, camion).
 
