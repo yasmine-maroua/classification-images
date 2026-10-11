@@ -1,0 +1,16 @@
+# Archives du challenge (les fichiers dataset_images_train et data_images_test sont, eux, versionnés)
+*.zip
+
+# Fichiers générés par les scripts
+images_test_predictions.csv
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Éditeurs
+.idea/
+.vscode/
